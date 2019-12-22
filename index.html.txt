@@ -1,0 +1,28 @@
+<html>
+<head>	<title>nested list</title></head>
+	<body>
+	 <ol type="a">
+	<li>NCCS</li>
+	<ol type="i">
+	<li>BSC.CSIT</li>
+	<li>BBM</li>
+	<li>BHM</li>
+	<li>BCA</li>
+	<li>BIM</li>
+	<ol type="square">
+	<li>1<sup>st</sup>Semester</li>
+	<li>2<sup>nd</sup>Semester</li>
+	<li>3<sup>rd</sup>Semester</li>
+	<ul type="disc">
+	<li>Web tech</li>
+	<li>Acc</li>
+	<li>Java</li>
+	<li>CO</li>
+	<li>Stat</li>
+	</ul>
+	</ul>
+	</ol>
+	</ol>
+
+	</body>
+	</html>
